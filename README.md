@@ -1,4 +1,4 @@
-# Houg-Transform-using-OpenCV
+# Hough-Transform-using-OpenCV
 Understanding the concept of the Hough Transform and Hough Line Transform Theory. 
 OpenCV implements two kind of Hough Line Transforms
 The Standard Hough Transform  (HoughLines method)
